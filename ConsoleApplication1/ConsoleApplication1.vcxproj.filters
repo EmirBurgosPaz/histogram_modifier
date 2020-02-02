@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="blank_template.cpp">
+    <ClCompile Include="histogram_modifier.cpp">
       <Filter>Archivos de origen</Filter>
     </ClCompile>
   </ItemGroup>
